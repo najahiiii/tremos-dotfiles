@@ -1,8 +1,8 @@
 aria2
 build-essential
-ffsend
 file
 git
+gnupg
 jq
 lzip
 nano
@@ -16,4 +16,7 @@ termimage
 tmux
 unrar
 unzip
+wget
 zip
+fastfetch
+android-tools

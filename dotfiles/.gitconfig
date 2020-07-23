@@ -1,7 +1,7 @@
 [user]
 	name = Ahmad Thoriq Najahi
-	email = najahi@chips-projects.xyz
-	signingKey = 73FC5AB28A919D8ABE80F4F4EFFD6230CE5424D6
+	email = najahi@zephyrus.id
+	signingKey = C4907293C4123FEA50435487F1F4FA115DADBD90
 [credential]
 	helper = cache --timeout=7200
 [commit]
@@ -11,6 +11,7 @@
 	cpn = cherry-pick -n
 	c = commit -sS
 	f = fetch
+	s = status
 [core]
 	editor = nano
 [color]
